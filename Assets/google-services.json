@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "132779063529",
+    "project_id": "shoejackcity-8cfde",
+    "storage_bucket": "shoejackcity-8cfde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132779063529:android:f184c7e734759d04b7d878",
+        "android_client_info": {
+          "package_name": "com.ShoeJack.ShoeJackCity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132779063529-3l96927jqu1qf63a30t5pbesnn0cpuk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ShoeJack.ShoeJackCity",
+            "certificate_hash": "649ca65b2a20b9d598f8c28c2211a1eca7dc020d"
+          }
+        },
+        {
+          "client_id": "132779063529-8betpiqkau38a3osd5re70ppfkukr96v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAB4syh-yajD1WMNpgHGnbxm3P-L3gE24Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132779063529-8betpiqkau38a3osd5re70ppfkukr96v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "132779063529-0un1tl3pp6uera0jeot3cntl07epmu6m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ShoeJack.ShoeJackCity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

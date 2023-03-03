@@ -1,0 +1,36 @@
+{
+  "project_info": {
+    "project_number": "132779063529",
+    "project_id": "shoejackcity-8cfde",
+    "storage_bucket": "shoejackcity-8cfde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132779063529:ios:0662952f695a3341b7d878",
+        "android_client_info": {
+          "package_name": "com.ShoeJack.ShoeJackCity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132779063529-0un1tl3pp6uera0jeot3cntl07epmu6m.apps.googleusercontent.com"
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWEFU-jhJZ1dP4Iuz-CVqdkFvXGaWXB70"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 0
+        },
+        "appinvite_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
